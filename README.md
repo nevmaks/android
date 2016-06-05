@@ -1,2 +1,2 @@
 # android
-Sample Android Application
+Sample Android Application Repository
